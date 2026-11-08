@@ -9,6 +9,12 @@ Autonomous, multi-persona AI agent deliberation mesh executing adversarial debat
 
 Architected by **[Aamir Zameer (@Amz34)](https://github.com/Amz34)** (Principal AI Systems Architect, Az. Consultancy).
 
+> [!TIP]
+> **Enterprise Advisory & AI Architecture Engagements:**
+> To deploy sovereign multi-agent consensus meshes, custom agentic workflows, or source vetted elite AI engineers:  
+> 💬 **Direct Consultation & Requisitions:** [Connect via Telegram (@AzGem_Bot)](https://t.me/AzGem_Bot) | [GitHub Ecosystem](https://github.com/Amz34) | [Architecture Manifest](https://pastebin.com/6sH3kC7b)
+
+
 ---
 
 ## 🏛️ Swarm Dialectic Architecture
